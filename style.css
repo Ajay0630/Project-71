@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+}
+#school_image{
+    width: 2550px;
+    height: 1200px;
+}
+.travel_mainDiv img{
+    width: 750px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: #ff7700;
+}
+.header_entrepreneur{
+    line-height: 2px;
+}
+.book{
+    cursor: pointer;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img_modal{
+    display: inline-block;
+}
+.p-modal{
+    margin-top: 10px;
+}
+.modal-body{
+    text-align: center;
+}
+html{
+    scroll-behavior: smooth;
+}
